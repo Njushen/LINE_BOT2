@@ -6,4 +6,5 @@ azure-ai-language-questionanswering
 gspread
 oauth2client
 google-auth
-
+azure.cognitiveservices.vision.computervision
+pillow
