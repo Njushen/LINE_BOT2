@@ -1,5 +1,8 @@
 line-bot-sdk
 flask
+openai
 gunicorn
 azure-ai-language-questionanswering
-openai
+gspread
+oauth2client
+google-auth
