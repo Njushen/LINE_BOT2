@@ -3,4 +3,5 @@ flask
 openai
 gunicorn
 azure-ai-language-questionanswering
-azure.cognitiveservices
+azure-cognitiveservices-vision
+
